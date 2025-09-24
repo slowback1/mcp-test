@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCPTest", "MCPTest\MCPTest.csproj", "{945E458A-5471-4FA2-B9C1-70D633885472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945E458A-5471-4FA2-B9C1-70D633885472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945E458A-5471-4FA2-B9C1-70D633885472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945E458A-5471-4FA2-B9C1-70D633885472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945E458A-5471-4FA2-B9C1-70D633885472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
