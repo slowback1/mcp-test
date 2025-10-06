@@ -1,7 +1,7 @@
 using System.ComponentModel;
 using ModelContextProtocol.Server;
 
-namespace MCPTest;
+namespace MCPServer;
 
 [McpServerToolType]
 public static class FileTools
